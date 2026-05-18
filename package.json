@@ -11,6 +11,6 @@
     "react": "latest",
     "react-dom": "latest",
     "vocs": "latest",
-    "vite-plugin-radar": "^0.9.6"
+    "vite-plugin-radar": "0.9.6"
   }
 }
